@@ -1,0 +1,22 @@
+{
+  "name": "flechat",
+  "version": "1.0.0",
+  "description": "A new try to connect a mongodb database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaogabrielqa/flechat_att1.git"
+  },
+  "author": "joaogabrielqa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaogabrielqa/flechat_att1/issues"
+  },
+  "homepage": "https://github.com/joaogabrielqa/flechat_att1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
